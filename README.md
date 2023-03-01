@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukhar Jain. A software Developer at Standard Chartered GBS, India. With an experience of 1.6 years in JAVA Springboot microservices, Cloud, React, CI/CD tools Jenkins.
+I am Mukhar Jain. A software Developer at Standard Chartered GBS, India. Started His software development journey in 2021, with an experience of 2 years in JAVA Springboot microservices, Cloud, React, CI/CD tools Jenkins.
 
 [![Linkedin](https://img.shields.io/badge/-Mukhar-0077B5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mukhar/)](https://www.linkedin.com/in/Mukhar/)
 [![Gmail](https://img.shields.io/badge/-Mukhar_Jain-c14438?logo=Gmail&logoColor=white&link=mailto:mukhar.jain2009@gmail.com)](mailto:mukhar.jain2009@gmail.com)
