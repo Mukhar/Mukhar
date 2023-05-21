@@ -17,12 +17,18 @@ I am Mukhar Jain. A software Developer at Standard Chartered GBS, India. Started
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
 </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 
- <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="c++" width="60" height="60" />    
- <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="80" height="60" />   
- <img src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" alt="spring" width="80" height="60" />  
- <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="React" width="90" height="60" />  
- <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" width="60" height="60" />
+
+<a> <img src="https://i.redd.it/31b2ii8hchi31.jpg" alt="c++" width="60" height="60" />   </a> 
+<a> <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="80" height="60" /> </a>   
+<a> <img src="https://www.logo.wine/a/logo/Spring_Framework/Spring_Framework-Logo.wine.svg" alt="spring" width="80" height="60" /> </a> 
+<a> <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="React" width="90" height="60" />  </a>
+<a> <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" width="60" height="60" /></a>
  
 <!--
 **Mukhar/Mukhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
