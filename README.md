@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukhar Jain. A software Developer at Standard Chartered GBS, India. Started software development journey in 2021, with an experience of 2 years in JAVA Springboot microservices,Golang, Cloud, React, CI/CD tools Jenkins, Gitlab.
+I am Mukhar Jain. Technical Lead Full stack development at Standard Chartered GBS, India. Started software development journey in 2021, with an experience of 2.5 years in JAVA Springboot microservices,Golang, Cloud AWS, Azure, React, CI/CD tools Jenkins, Gitlab.
 
 [![Linkedin](https://img.shields.io/badge/-Mukhar-0077B5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mukhar/)](https://www.linkedin.com/in/Mukhar/)
 [![Gmail](https://img.shields.io/badge/-Mukhar_Jain-c14438?logo=Gmail&logoColor=white&link=mailto:mukhar.jain2009@gmail.com)](mailto:mukhar.jain2009@gmail.com)
@@ -7,7 +7,8 @@ I am Mukhar Jain. A software Developer at Standard Chartered GBS, India. Started
 
 ## Badges Earned in professional career
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a1b7c852-d1c1-45f6-a05a-c107cad1b965/ "Cybersecurity Fundamentals")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a1b7c852-d1c1-45f6-a05a-c107cad1b965/ "Cloud Practitioner")
+[![AWS Certified Developer Associate](https://images.credly.com/size/150x150/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/207f8c9c-4d62-446a-b102-aaf78d338086/ "Developer Associate")
 
 ## Languages & framerwork I'm familiar with
 
