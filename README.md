@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukhar Jain. Technical Lead Full stack development at Standard Chartered GBS, India. Started software development journey in 2021, with an experience of 2.5 years in JAVA Springboot microservices,Golang, Cloud AWS, Azure, React, CI/CD tools Jenkins, Gitlab.
+I am Mukhar Jain. Technical Lead Full stack development at Standard Chartered GBS, India. Started software development journey in 2021, with an experience of 3 years in JAVA Springboot microservices,Golang, Cloud AWS, Azure, React, CI/CD tools Jenkins, Gitlab.
 
 [![Linkedin](https://img.shields.io/badge/-Mukhar-0077B5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mukhar/)](https://www.linkedin.com/in/Mukhar/)
 [![Gmail](https://img.shields.io/badge/-Mukhar_Jain-c14438?logo=Gmail&logoColor=white&link=mailto:mukhar.jain2009@gmail.com)](mailto:mukhar.jain2009@gmail.com)
