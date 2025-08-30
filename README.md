@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukhar Jain. Technical Lead Full stack development at Standard Chartered GBS, India. Started software development journey in 2021, with an experience of 3 years in JAVA Springboot microservices,Golang, Cloud AWS, Azure, React, CI/CD tools Jenkins, Gitlab.
+I am Mukhar Jain, Software Development Engineer 3 (Backend) at Walmart Global Tech India. I started my software development journey in 2021 and bring over 4 years of experience in Java Spring Boot microservices, Golang, Cloud (AWS, Azure), React, and CI/CD tools (Jenkins, GitLab, Azure DevOps). Previously, I served as Technical Lead – Full Stack Development at Standard Chartered GBS, India, where I modernized legacy systems, led Agile teams, and built scalable cloud-native solutions.
 
 [![Linkedin](https://img.shields.io/badge/-Mukhar-0077B5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mukhar/)](https://www.linkedin.com/in/Mukhar/)
 [![Gmail](https://img.shields.io/badge/-Mukhar_Jain-c14438?logo=Gmail&logoColor=white&link=mailto:mukhar.jain2009@gmail.com)](mailto:mukhar.jain2009@gmail.com)
